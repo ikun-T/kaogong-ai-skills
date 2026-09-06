@@ -1,0 +1,1742 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-09-06",
+  "scope": "中国大陆国考、省考；公开信息与局部教学证据",
+  "sources": [
+    {
+      "id": "B001",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1f4411C7z5/",
+      "title": "资料分析《行测》系统课（全国通用）（适用2026年和2027年备考学生）——刘文超",
+      "uploader": "刘文超Vin",
+      "teacher": "刘文超",
+      "identity_status": "self_identified_original",
+      "published_at": "2019-09-04",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引中的原视频简介与目录",
+      "topic": [
+        "资料分析"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "目录依次含统计术语、结构阅读、速算技巧、重点题型；简介说明2019年基础课与后来真题讲解分开更新。"
+        }
+      ],
+      "limitations": [
+        "可提炼课程组织顺序；不能据目录写出截位直除的具体步骤或精度阈值。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "4594.0万",
+        "followers_display": "562.6万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B002",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1XT411M7bp/",
+      "title": "聂佳教你学行测：图形推理如何高效总结",
+      "uploader": "聂佳杂谈",
+      "teacher": "聂佳",
+      "identity_status": "self_identified_original",
+      "published_at": "2022-09-16",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引；web.open返回412",
+      "topic": [
+        "判断推理",
+        "图形推理"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "题名明确聚焦图形推理总结，账号自述其备考内容免费。"
+        }
+      ],
+      "limitations": [
+        "没有获得总结的具体操作；只作后续取证候选。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "27.4万",
+        "followers_display": "70.9万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B003",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1cN411t7CB/",
+      "title": "聂佳判断-削弱题型系统精讲（知识点已全部讲解完毕）",
+      "uploader": "聂佳杂谈",
+      "teacher": "聂佳",
+      "identity_status": "self_identified_original",
+      "published_at": "2023-10-16",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "CUA直接页面，20个分P目录，简介为短横线",
+      "topic": [
+        "判断推理",
+        "削弱论证"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "目录先区分论点和论据，后分直接削弱论点、拆桥、削弱论据，再讲因果关系、它因和因果倒置。"
+        }
+      ],
+      "limitations": [
+        "可以归因目录的分解框架；未读字幕、未播放成功，不把教材通用逻辑冒充其详细讲义。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "323.0万",
+        "followers_display": null,
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B004",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1Lg411U72S/",
+      "title": "聂佳教你学行测：判断推理加强类题型精讲。注：第一题录的时候有点小卡顿，不影响听，大家稍微担待一下。",
+      "uploader": "聂佳杂谈",
+      "teacher": "聂佳",
+      "identity_status": "self_identified_original",
+      "published_at": "2022-09-16",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引原视频页",
+      "topic": [
+        "判断推理",
+        "加强论证"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "简介与标签确认逻辑判断加强类专题。"
+        }
+      ],
+      "limitations": [
+        "未获得题例与步骤；不能生成讲师专属加强规则。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "28.1万",
+        "followers_display": "71.3万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B005",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1Bo4y1k7g6/",
+      "title": "可不止会讲资料分析——花生十三说言语",
+      "uploader": "花生十三-公考行测",
+      "teacher": "花生十三",
+      "identity_status": "self_identified_original",
+      "published_at": "2021-06-22",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引；web.open返回412",
+      "topic": [
+        "言语理解"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "标题确认花生十三本人言语公开讲解；简介未提供教学实质。"
+        }
+      ],
+      "limitations": [
+        "只作主题定位；不能由其资料分析声誉推断该视频方法。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "149.4万",
+        "followers_display": "348.4万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B006",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1oA411c7Eh/",
+      "title": "言语理解与表达系统课（全国通用）——阿里木江",
+      "uploader": "威猛公考",
+      "teacher": "阿里木江",
+      "identity_status": "uploader_claims_authorized",
+      "published_at": "2021-08-27",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引收藏页，原始bvid可核对",
+      "topic": [
+        "言语理解"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "简介声称UP购买全部版权上传；目录显示系统课及2024/2025国考言语讲解。"
+        }
+      ],
+      "limitations": [
+        "仅记录上传者授权自述，未独立认证；邻接推荐《方法技巧11讲》不是阿里木江课程。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "2816.5万",
+        "followers_display": "119.9万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B007",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1UtgXzgE62/",
+      "title": "郭熙言语100题（一）",
+      "uploader": "粉笔郭熙",
+      "teacher": "郭熙",
+      "identity_status": "self_identified_original",
+      "published_at": "2025-07-01",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引原视频页",
+      "topic": [
+        "言语理解",
+        "刷题"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "账号自述言语讲师；合集10讲，每讲约一小时，属于题目精讲候选。"
+        }
+      ],
+      "limitations": [
+        "未见解题过程，不把第三方测评中的教学标签写入个人skills。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "192.0万",
+        "followers_display": "41.4万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B008",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1T4Kd69EhJ/",
+      "title": "【27考季最新课程】郭熙言语高分十二计12",
+      "uploader": "粉笔郭熙",
+      "teacher": "郭熙",
+      "identity_status": "self_identified_original",
+      "published_at": null,
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引原作者视频列表，bvid可核对",
+      "topic": [
+        "言语理解"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "原作者列表显示该具体公开视频；与100题系列并列。"
+        }
+      ],
+      "limitations": [
+        "十二计内容没有读到；仅发现，不提炼十二条技巧。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": null,
+        "followers_display": null,
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B009",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1W24y1b76H/",
+      "title": "错位加减法2-进阶应用汇总精讲（重录版本）",
+      "uploader": "公考苏金朋",
+      "teacher": "苏金朋",
+      "identity_status": "self_identified_original",
+      "published_at": "2023-03-10",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引；web.open返回412",
+      "topic": [
+        "资料分析",
+        "速算"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "同系列目录区分原理操作篇与进阶应用篇，并有分数比较及公式推导。"
+        }
+      ],
+      "limitations": [
+        "只能记录原理到应用的课程组织，未取得错位加减算法或误差界。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "5.2万",
+        "followers_display": "28.5万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B010",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1Ux4y1F7uD/",
+      "title": "【数量关系蒙题】考前急救极简版（放松局来了）",
+      "uploader": "公考苏金朋",
+      "teacher": "苏金朋",
+      "identity_status": "self_identified_original",
+      "published_at": "2023-02-24",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引原视频页",
+      "topic": [
+        "数量关系",
+        "应试策略"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "题名指向考前猜题策略，目录另含排列组合、十字交叉与同余等题型。"
+        }
+      ],
+      "limitations": [
+        "猜题有效性未验证；不纳入核心解题技能，避免将标题中的速成承诺当证据。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "19.4万",
+        "followers_display": "28.7万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B011",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1Cu4TzCEW1/",
+      "title": "行测-资料分析-混合增长率-十字交叉法-超级干货1",
+      "uploader": "大大怪学数资",
+      "teacher": "大大怪学数资",
+      "identity_status": "self_identified_original",
+      "published_at": "2025-10-12",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "CUA直接页面；搜索索引补充粉丝快照",
+      "topic": [
+        "资料分析",
+        "混合增长率"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "原作者自述为零基础录制数资课，系列含增长、间隔增长、年均、有效数字、比较大小和混合增长率；当前课60分钟。"
+        }
+      ],
+      "limitations": [
+        "方法名称和基础课定位可确认；混合权重、十字交叉计算步骤尚未从视频取得。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "478",
+        "followers_display": "764（搜索索引）",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B012",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1hrxAzGEy8/",
+      "title": "2026年国考粉笔模考第40季独家实战复盘（资料分析）",
+      "uploader": "公考罗飞",
+      "teacher": "罗飞",
+      "identity_status": "self_identified_original",
+      "published_at": "2025-10-26",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引原视频页简介和标签",
+      "topic": [
+        "资料分析",
+        "模考复盘"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "简介主张按既定理论做题、用熟练度提速；标签出现比例修正。"
+        }
+      ],
+      "limitations": [
+        "可归因其复盘主张；没有步骤，不将营销自述“原创”视作优先权证明。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "1168",
+        "followers_display": "4.4万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B013",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1zF5XzPEuY/",
+      "title": "叽叽喳喳: 速算基础+资料分析系统基础课+70道手把手速算例题 另有估算进阶拔高9讲+1000道五年真题在课程",
+      "uploader": "叽叽喳喳的公考",
+      "teacher": "叽叽喳喳的公考",
+      "identity_status": "self_identified_original",
+      "published_at": "2025-04-22",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "CUA直接页面完整简介，课程目录",
+      "topic": [
+        "资料分析",
+        "训练安排"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "简介建议按同年同地区不同试卷安排训练，也可按难度递进；高级高精度速算要求基本功扎实、反应熟练。"
+        }
+      ],
+      "limitations": [
+        "这是本人公开简介中的训练建议。各省难度排名属于其主观看法，不作为普遍考情定律。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "42.7万",
+        "followers_display": "20.1万（搜索索引）",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B014",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV174UUY8EjG/",
+      "title": "叽叽喳喳：公考数量关系免费系统课合集（0差评，都害怕对手看见）小白高手都适合！",
+      "uploader": "叽叽喳喳的公考",
+      "teacher": "叽叽喳喳的公考",
+      "identity_status": "self_identified_original",
+      "published_at": "2024-11-21",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "CUA直接页面77项合集目录；尝试课目点击后播放器显示无法播放媒体",
+      "topic": [
+        "数量关系",
+        "系统课"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "目录将排列组合、行程、溶液、工程、容斥、不定方程、最值等组织为理论与题例；不定方程标题明确余数分析。"
+        }
+      ],
+      "limitations": [
+        "目录包含正课、试听、广告入口及重复条目，77项不可视为77节完整免费教学；未读实际字幕。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "308.8万",
+        "followers_display": "20.8万（CUA）",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B015",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1rt411x7Zt/",
+      "title": "2019公务员省考笔试，事业单位笔试行测秒杀——笔航刘二瑞带你6分钟让你彻底颠覆掌握“一笔画”",
+      "uploader": "笔航公考",
+      "teacher": "刘二瑞",
+      "identity_status": "organization_account",
+      "published_at": "2019-01-05",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引原视频页",
+      "topic": [
+        "判断推理",
+        "一笔画"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "题名和简介确认讲师刘二瑞及一笔画奇点专题。"
+        }
+      ],
+      "limitations": [
+        "未见图例或具体判断法；100%和秒杀式表达不作效果证据。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "2.4万",
+        "followers_display": "5.0万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B016",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1WC4y1E7TM/",
+      "title": "【图形推理】——笔航最强押题只大数据杀熟，你会吗？",
+      "uploader": "笔航公考刘二瑞",
+      "teacher": "刘二瑞",
+      "identity_status": "self_identified_original",
+      "published_at": "2023-11-15",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引原作者列表，bvid可核对",
+      "topic": [
+        "判断推理",
+        "图形推理"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "作者和具体图推视频存在可确认。"
+        }
+      ],
+      "limitations": [
+        "题名不提供可检验方法，放发现列表，不提炼押题结论。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "1768",
+        "followers_display": "7.1万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B017",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1pz4y1p7sm/",
+      "title": "一道不难但只有37正确率的排列组合典型题",
+      "uploader": "笨笨还在做题",
+      "teacher": "笨笨还在做题",
+      "identity_status": "self_identified_original",
+      "published_at": "2023-08-05",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "CUA直接页面简介及数量神奇理解课目录",
+      "topic": [
+        "数量关系",
+        "排列组合"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "本人简介列出假设修正、速算假设修正、四面体底边法与比重差等自述特色；合集题名要求枚举有序，预先规定枚举规则。"
+        }
+      ],
+      "limitations": [
+        "只确认自述特色与目录中明确的枚举要求；未读算法，不认证原创性或正确率。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "2967",
+        "followers_display": "16.9万（搜索索引）",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B018",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1KnNZeVEcy/",
+      "title": "【资料分析破解版】【暂】3.2两期比重差，唯一要背公式的题型",
+      "uploader": "笨笨还在做题",
+      "teacher": "笨笨还在做题",
+      "identity_status": "self_identified_original",
+      "published_at": "2025-02-10",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引原视频页和本人合集目录",
+      "topic": [
+        "资料分析",
+        "两期比重差"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "目录强调基础计算、规范书写，并有先估算、无法区分再继续算的课目。"
+        }
+      ],
+      "limitations": [
+        "标题“破解版”是本人系列命名，不据此认定盗版；仅提炼目录明确的复算观念，不复原未知公式。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "3.7万",
+        "followers_display": "16.8万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B019",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1bY4y1W7Cj/",
+      "title": "言语进阶1-中心理解",
+      "uploader": "大懒猫丶丶",
+      "teacher": "大懒猫",
+      "identity_status": "self_identified_original",
+      "published_at": "2022-04-02",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引原视频页，关联同作者系列",
+      "topic": [
+        "言语理解",
+        "中心理解"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "该课及同系列课目聚焦中心理解、例子识别、接语题。"
+        }
+      ],
+      "limitations": [
+        "没有读到三大法宝的具体内容；不得凭题名生成三条专属法宝。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "43.4万",
+        "followers_display": "60.2万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B020",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1Do4y117eV/",
+      "title": "言语理解与表达方法技巧11讲",
+      "uploader": "公考齐麟",
+      "teacher": "欣说言语",
+      "identity_status": "team_or_guest_upload",
+      "published_at": "2021-05-26",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引原视频页：简介注明欣说言语",
+      "topic": [
+        "言语理解",
+        "结构分析"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "11讲目录分中心理解的转折因果、必要条件与对策、并列与话题、总分，另列排序、衔接、下文推断与逻辑填空。"
+        }
+      ],
+      "limitations": [
+        "主讲依据简介为欣说言语，UP为公考齐麟；不能标齐麟亲授言语，也不能标阿里木江。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "138.8万",
+        "followers_display": "116.2万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "B021",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1Fu4y1X7Ja/",
+      "title": "定义判断方法技巧梳理及提升训练方法",
+      "uploader": "聂佳杂谈",
+      "teacher": "聂佳",
+      "identity_status": "self_identified_original",
+      "published_at": "2023-08-22",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "搜索索引原作者列表",
+      "topic": [
+        "判断推理",
+        "定义判断"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介／分P目录；无视频时间定位",
+          "support": "主题是定义判断方法梳理与提升训练。"
+        }
+      ],
+      "limitations": [
+        "未取得训练步骤，只作候选。",
+        "未取得字幕，未读取实际视频画面。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "89.0万",
+        "followers_display": "71.3万",
+        "observed_on": "2026-09-06",
+        "caveat": "页面或搜索索引快照；索引抓取时刻可能早于观察日；不代表当前实时规模、质量或影响力排名。"
+      }
+    },
+    {
+      "id": "OFFICIAL-2026-OUTLINE",
+      "platform": "official",
+      "kind": "official_document",
+      "url": "https://www.forestry.gov.cn/c/www/gsgg/645383.jhtml",
+      "title": "中央机关及其直属机构2026年度考试录用公务员公共科目笔试考试大纲",
+      "uploader": "国家林业和草原局",
+      "teacher": null,
+      "identity_status": "official_republication",
+      "published_at": "2025-10-16",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "article_body",
+      "read_scope": "Full public HTML retrieved with ordinary HTTPS request; curriculum and essay section read",
+      "topic": [
+        "考试范围"
+      ],
+      "observations": [
+        {
+          "locator": "官方正文",
+          "support": "行测120分钟100分，申论180分钟100分。"
+        },
+        {
+          "locator": "官方正文",
+          "support": "政治理论、常识判断、言语理解与表达、数量关系、判断推理、资料分析属于行测。"
+        },
+        {
+          "locator": "官方正文",
+          "support": "申论按省级及以上综合管理、市地级及以下综合管理、行政执法三类职位命题，各自能力侧重不同。"
+        }
+      ],
+      "limitations": [
+        "2026年度国考官方基线；不是2027年规则，也不是全部省考或面试规则。"
+      ],
+      "metrics_snapshot": null
+    },
+    {
+      "id": "OFFICIAL-2026-ANNOUNCEMENT",
+      "platform": "official",
+      "kind": "official_document",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/tzxx/202510/t20251015_4224742.html",
+      "title": "中央机关及其直属机构2026年度考试录用公务员公告",
+      "uploader": "北京市人民政府首都之窗",
+      "teacher": null,
+      "identity_status": "official_republication",
+      "published_at": "2025-10-15",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "article_body",
+      "read_scope": "Public body, especially written exam dates and interview arrangements",
+      "topic": [
+        "考试范围"
+      ],
+      "observations": [
+        {
+          "locator": "官方正文",
+          "support": "2026年度公共科目笔试在2025年11月30日举行。"
+        },
+        {
+          "locator": "官方正文",
+          "support": "招录机关负责实施面试，具体事项查对应面试公告。"
+        },
+        {
+          "locator": "官方正文",
+          "support": "招考不指定考试辅导书、不委托社会机构办培训。"
+        }
+      ],
+      "limitations": [
+        "No claim that an instructor's course is officially endorsed."
+      ],
+      "metrics_snapshot": null
+    },
+    {
+      "id": "BILI-SL-HUAMU-2021",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1ZQ4y1i7hT/",
+      "title": "2022国考|申论冲刺|申论小白or申论老鸟是怎么备考冲刺拿申论高分？",
+      "uploader": "公考花木君",
+      "teacher": "公考花木君",
+      "identity_status": "platform_self_identification",
+      "published_at": "2021-10-19",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "主代理通过普通浏览器直接读取原视频简介，2026-09-06；播放器未读取。",
+      "topic": [
+        "申论"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介；无视频时间定位",
+          "support": "简介按新手和已有基础者区别备考建议；前者重材料阅读、写作和题型认识，后者结合理论和历年真题。"
+        }
+      ],
+      "limitations": [
+        "No transcript; do not claim extraction of 花木体 framework or reuse 2022 scheduling as current policy.",
+        "没有取得字幕／实际视频片段。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "137",
+        "followers_display": "4939",
+        "metrics_type": "search-index snapshot, not live verified"
+      }
+    },
+    {
+      "id": "BILI-SL-WANG-2020",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1Bz4y1y7bo/",
+      "title": "申论还在抄材料？用申论真题的原材料出处告诉你，申论标准答案长什么样丨适用于公务员考试各省省考、国考（全国通用）",
+      "uploader": "申论克星王长明",
+      "teacher": "申论克星王长明",
+      "identity_status": "platform_self_identification",
+      "published_at": "2020-11-17",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "Indexed original video metadata, description and limited part list; direct open returned HTTP412",
+      "topic": [
+        "申论"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介；无视频时间定位",
+          "support": "讲师在简介自述研究给定材料原始出处，以核验自己得出的答案。"
+        }
+      ],
+      "limitations": [
+        "Source news article is not an official marking scheme; no method attribution beyond the description.",
+        "没有取得字幕／实际视频片段。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "107.8万",
+        "followers_display": "6.2万",
+        "metrics_type": "search-index snapshot, not live verified"
+      }
+    },
+    {
+      "id": "BILI-SL-SHENQIAN-2024",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1mS411w7Zx/",
+      "title": "申论系统课（ 申倩主讲 评论区一致好评）",
+      "uploader": "永岸申倩",
+      "teacher": "永岸申倩",
+      "identity_status": "platform_self_identification",
+      "published_at": "2024-08-05",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "Indexed original video metadata and 31-part list; no lesson body; direct open returned HTTP412",
+      "topic": [
+        "申论"
+      ],
+      "observations": [],
+      "limitations": [
+        "Separate creator article supports methods; do not label that article as this video's transcript.",
+        "没有取得字幕／实际视频片段。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "17.3万",
+        "followers_display": "13.2万",
+        "metrics_type": "search-index snapshot, not live verified"
+      }
+    },
+    {
+      "id": "BILI-IV-LAOXIA-2022",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/av677982831/",
+      "title": "结构化面试免费基础课（适用公务员、事业单位、遴选、选调、三支一扶）【老夏】",
+      "uploader": "公考老夏",
+      "teacher": "公考老夏",
+      "identity_status": "platform_self_identification",
+      "published_at": "2022-01-06",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "Original video page metadata, description and 23-part list",
+      "topic": [
+        "面试"
+      ],
+      "observations": [],
+      "limitations": [
+        "No operational definition of named framework was read. Course applicability claims do not make exam formats equivalent.",
+        "没有取得字幕／实际视频片段。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "79.5万",
+        "followers_display": "82.2万",
+        "metrics_type": "retrieved web page snapshot, may lag live"
+      }
+    },
+    {
+      "id": "BILI-IV-WANG-2019",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV18J411x7wy/",
+      "title": "公务员结构化面试“八大思维体系”逆袭秘课丨全场第一收割机丨守擂逆袭救心丸丨适用于公务员面试、选调生面试、事业单位面试等",
+      "uploader": "申论克星王长明",
+      "teacher": "申论克星王长明",
+      "identity_status": "platform_self_identification",
+      "published_at": "2019-12-24",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "子研究与主代理均直接读取原视频简介与分P目录；播放器未读取。",
+      "topic": [
+        "面试"
+      ],
+      "observations": [
+        {
+          "locator": "公开简介；无视频时间定位",
+          "support": "简介主张多角度探究现象本质。"
+        },
+        {
+          "locator": "公开简介；无视频时间定位",
+          "support": "事务处理需覆盖矛盾、划分轻重缓急并务实解决，避免转移矛盾。"
+        }
+      ],
+      "limitations": [
+        "No complete eight-perspective procedure or course effectiveness claim established.",
+        "没有取得字幕／实际视频片段。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "117.6万",
+        "followers_display": "5.9万",
+        "metrics_type": "retrieved web page snapshot, may lag live"
+      }
+    },
+    {
+      "id": "BILI-IV-PEIPEI-2025",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1xkp2zSEKq/",
+      "title": "【26最新】结构化面试理论系统课 - 佩佩讲面试 公考刘佩 公务员面试 适用：国考、省考、事业单位、选调等",
+      "uploader": "佩佩讲面试",
+      "teacher": "佩佩讲面试",
+      "identity_status": "platform_self_identification",
+      "published_at": "2025-09-16",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "search_only",
+      "read_scope": "Indexed original metadata, description and 11-part list; direct open HTTP412",
+      "topic": [
+        "面试"
+      ],
+      "observations": [],
+      "limitations": [
+        "Coverage only; no handouts accessed and creator credentials not independently verified.",
+        "没有取得字幕／实际视频片段。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "4.6万",
+        "followers_display": "5986",
+        "metrics_type": "search-index snapshot, not live verified"
+      }
+    },
+    {
+      "id": "BILI-TEXT-SHENQIAN-2025",
+      "platform": "bilibili",
+      "kind": "article",
+      "url": "https://www.bilibili.com/read/cv43845885/",
+      "title": "申论临时抱佛脚（三）：归纳概括题",
+      "uploader": "永岸申倩",
+      "teacher": "永岸申倩",
+      "identity_status": "platform_self_identification",
+      "published_at": "2025-11-24",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "article_body",
+      "read_scope": "Substantive public article body obtained in search tool result",
+      "topic": [
+        "申论归纳概括"
+      ],
+      "observations": [
+        {
+          "locator": "公开图文正文",
+          "support": "审清材料范围、任务与字数后分层找有效信息。"
+        },
+        {
+          "locator": "公开图文正文",
+          "support": "忠实材料，避免歪曲或自行增补分析。"
+        },
+        {
+          "locator": "公开图文正文",
+          "support": "压缩改写并合并重复内容，按题干和信息密度决定要点组织方式。"
+        }
+      ],
+      "limitations": [
+        "Article targets summary tasks; sentence/paragraph heuristics are not universal official marking rules."
+      ],
+      "metrics_snapshot": null
+    },
+    {
+      "id": "BILI-NOTES-XIAOMA-2022-A",
+      "platform": "bilibili",
+      "kind": "learner_notes",
+      "url": "https://www.bilibili.com/opus/713915773418995748",
+      "title": "申论系统课（全国通用）——公考小马哥",
+      "uploader": "爱哭鬼Max",
+      "teacher": null,
+      "identity_status": "third_party_notes",
+      "published_at": "2022-10-06",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "article_body",
+      "read_scope": "Public text including task-material mapping and summary-task notes; embedded images not read",
+      "topic": [
+        "申论"
+      ],
+      "observations": [
+        {
+          "locator": "公开图文正文",
+          "support": "学习者笔记写到先判断题目与材料对应、区分同材料下不同问题并忠实材料。"
+        }
+      ],
+      "limitations": [
+        "Not authored by 小马哥; no audio/video comparison, no instructor-verified attribution."
+      ],
+      "metrics_snapshot": null
+    },
+    {
+      "id": "BILI-NOTES-XIAOMA-2022-B",
+      "platform": "bilibili",
+      "kind": "learner_notes",
+      "url": "https://www.bilibili.com/opus/732330900973420563",
+      "title": "申论系统课（全国通用）——公考小马哥",
+      "uploader": "奥了维斯",
+      "teacher": null,
+      "identity_status": "third_party_notes",
+      "published_at": "2022-11-25",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "article_body",
+      "read_scope": "70-line public text of application-writing practice; embedded problem images not read",
+      "topic": [
+        "申论"
+      ],
+      "observations": [
+        {
+          "locator": "公开图文正文",
+          "support": "特定练习笔记采用先概括问题再写建议的组织顺序，并提示若干文种要素。"
+        }
+      ],
+      "limitations": [
+        "Do not generalize to all document genres; not authored by instructor; full problem unread."
+      ],
+      "metrics_snapshot": null
+    },
+    {
+      "id": "yt-II0bgNA-3oc",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=II0bgNA-3oc",
+      "title": "【框架14】拆解，面试的万法之源【公务员面试-公考面试】",
+      "uploader": "老夏说公务员面试",
+      "teacher": null,
+      "identity_status": "cross_platform_origin_visible: 画面有B站水印，YouTube handle为@RamjeetnPrasadb，账号与本人关系未核实",
+      "published_at": "2024-11-18T04:00:18-08:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "面试"
+      ],
+      "observations": [
+        {
+          "locator": "00:00",
+          "support": "实际讲师出镜画面；右上角有老夏说公务员面试及bilibili水印。未获得足以提炼具体方法的教学文字。",
+          "scope": "visual_identity_only"
+        }
+      ],
+      "limitations": [
+        "watch无字幕轨道；CUA exportYouTubeTranscript返回No transcript is available",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 8,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCiCy26w07UbiACH_PxBKneA",
+      "duration_seconds": 1869,
+      "description_summary": "无独立教学摘要；简介为空或主要重复题名/标签。"
+    },
+    {
+      "id": "yt-4XQT0t6dqyY",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=4XQT0t6dqyY",
+      "title": "公务员面试怎么考到90分？公务员面试官给出6点忠告！全是干货",
+      "uploader": "苍客公考",
+      "teacher": null,
+      "identity_status": "unknown: 未核实与讲师官方账号的关系，不能据频道名确认原创",
+      "published_at": "2024-02-05T14:00:02-08:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "面试"
+      ],
+      "observations": [],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 586,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCIgnHJKX5GzDb93CCEnsFFg",
+      "duration_seconds": 564,
+      "description_summary": "无独立教学摘要；简介为空或主要重复题名/标签。"
+    },
+    {
+      "id": "yt-PBfyX5GcAvc",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=PBfyX5GcAvc",
+      "title": "公务员面试时能不能讲大白话？#热点话题 【白话天下】",
+      "uploader": "白话天下",
+      "teacher": null,
+      "identity_status": "unknown: 未核实与讲师官方账号的关系，不能据频道名确认原创",
+      "published_at": "2024-03-06T20:00:15-08:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "面试"
+      ],
+      "observations": [],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 501,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCghKNiFxwBSribB0p0IVSMw",
+      "duration_seconds": 234,
+      "description_summary": "简介自述采用日常语言讲授表达与商务演讲。"
+    },
+    {
+      "id": "yt-NumVQPZzCgI",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=NumVQPZzCgI",
+      "title": "什么是“坚持系统观念”？国省考申论、面试押题！",
+      "uploader": "手把手学申论",
+      "teacher": null,
+      "identity_status": "unknown: 未核实与讲师官方账号的关系，不能据频道名确认原创",
+      "published_at": "2024-02-21T13:37:16-08:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "面试"
+      ],
+      "observations": [
+        {
+          "locator": "02:00",
+          "support": "抽样为讲师出镜与一句过渡性画内字幕，信息不足以提炼系统观念的方法。",
+          "scope": "visual_identity_only"
+        }
+      ],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不把系统观念题名扩写成讲师教程",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 17,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCTfDspqN-yy0IyT7KNh7DSA",
+      "duration_seconds": 386,
+      "description_summary": "无独立教学摘要；简介为空或主要重复题名/标签。"
+    },
+    {
+      "id": "yt-8Q_AihvaM-Y",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=8Q_AihvaM-Y",
+      "title": "公务员申论写作大作文批改讲解；全力以赴备战国考！",
+      "uploader": "GreenDonkey学习",
+      "teacher": null,
+      "identity_status": "cross_platform_origin_visible: Green学习 B站水印，YouTube频道GreenDonkey学习关系未核实",
+      "published_at": "2020-09-03T00:28:53-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "video_sample",
+      "read_scope": "02:04、08:48实际作文及高亮批注画面",
+      "topic": [
+        "申论"
+      ],
+      "observations": [
+        {
+          "locator": "02:04",
+          "support": "展示手写作文，分论点用黄色高亮，段旁附带批注；若干边栏文字被截断或模糊，不能准确转述具体评语。",
+          "scope": "能识别批改对象和标注形式，不能复原评分规则"
+        },
+        {
+          "locator": "08:48",
+          "support": "末段与结尾格纸作文、局部评注；画面右上有Green学习和bilibili水印。",
+          "scope": "方法内容不足，仅验证存在真实批改示范"
+        }
+      ],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "insufficient: 可见批注布局，文字不全，不提炼专属评分口诀",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 154,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCyGClTypwGCHqlle7-mxifQ",
+      "duration_seconds": 599,
+      "description_summary": "简介介绍单独展示申论作文批改片段；具体评分规则仍需画面及音频支持。"
+    },
+    {
+      "id": "yt-khhVorj9mTs",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=khhVorj9mTs",
+      "title": "【36个行测秒杀技巧】第01讲：“奇偶特性”极速秒杀 公务员考试行测数量关系题目",
+      "uploader": "self 1234",
+      "teacher": null,
+      "identity_status": "likely_repost_unverified: 上传频道名与简介/标题讲师品牌不同；授权状态未知，仅候选索引",
+      "published_at": "2020-08-30T07:08:19-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "行测"
+      ],
+      "observations": [],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 2392,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCjJEVgDuLithQAh-_kkwxYQ",
+      "duration_seconds": 617,
+      "description_summary": "简介将系列署为两颗兔牙原创课程；上传频道与品牌关系未核实。"
+    },
+    {
+      "id": "yt-GeNrA4LRzi0",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=GeNrA4LRzi0",
+      "title": "从一道行测图形推理题谈宏观思维和微观思维",
+      "uploader": "会了会乐",
+      "teacher": null,
+      "identity_status": "unknown: 未核实与讲师官方账号的关系，不能据频道名确认原创",
+      "published_at": "2021-09-01T04:45:01-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "video_sample",
+      "read_scope": "01:30、02:51图形及手写标注",
+      "topic": [
+        "行测"
+      ],
+      "observations": [
+        {
+          "locator": "01:30",
+          "support": "五个序列图形与四个选项，逐图添加数字和手写特征记录。",
+          "scope": "可确认逐图标注过程；部分手写字无法可靠辨识"
+        },
+        {
+          "locator": "02:51",
+          "support": "同题增加更多逐图数字标记，圈出选项A。",
+          "scope": "确认演示答案和特征编码形式，未确认具体规则"
+        }
+      ],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "limited_process_only: 只支持显式记录图形特征的流程启发，不能宣称已提炼该题完整规律",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 993,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCd-HMvlJARCQKtmeuAqmPbQ",
+      "duration_seconds": 194,
+      "description_summary": "无独立教学摘要；简介为空或主要重复题名/标签。"
+    },
+    {
+      "id": "yt-EzFeuedSL7s",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=EzFeuedSL7s",
+      "title": "01 留学生考公必学 公考备考-行测高分技巧 言语理解 第一讲",
+      "uploader": "公考老师-水果",
+      "teacher": null,
+      "identity_status": "unknown: 未核实与讲师官方账号的关系，不能据频道名确认原创",
+      "published_at": "2026-01-01T08:00:31-08:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "video_sample",
+      "read_scope": "01:30、02:37、04:12播放器实际画面与板书；非逐字稿",
+      "topic": [
+        "行测"
+      ],
+      "observations": [
+        {
+          "locator": "01:30",
+          "support": "文博展陈主旨例题：板书圈出由问题引出建议的衔接与例证信号，标记先进技术，勾选包含拓展空间/善用新技术的选项。底部画内字幕为找重点句。",
+          "scope": "局部题面及批注可读；讲师口头理由未完整读取"
+        },
+        {
+          "locator": "02:37",
+          "support": "同一文博题及上述标注仍在画面；不作为独立例题计数。",
+          "scope": "同题复核"
+        },
+        {
+          "locator": "04:12",
+          "support": "另有食品添加剂知识科普主旨题；仅见题面与选项，未采集最终选择。",
+          "scope": "不将推测答案归于频道"
+        }
+      ],
+      "limitations": [
+        "watch无字幕轨道；CUA exportYouTubeTranscript返回No transcript is available",
+        "supported_local_procedure: 限于01:30圈划示范",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 34,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCBfs1KxV3i4ApyzpKc4W3kg",
+      "duration_seconds": 315,
+      "description_summary": "简介含言语提速和正确率宣传；未获得可验证统计证据，不作为能力承诺。"
+    },
+    {
+      "id": "yt-i_7m06DjTV4",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=i_7m06DjTV4",
+      "title": "申论备考经验-申论如何在有限的格子内让自己的答案要点更得分-核心就是材料的逻辑，一定要听完",
+      "uploader": "鹊南天",
+      "teacher": null,
+      "identity_status": "third_party_brand_visible: 画面有粉笔Logo，频道鹊南天与讲师/品牌/版权方关系未核实",
+      "published_at": "2024-08-22T17:14:34-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "video_sample",
+      "read_scope": "01:17作答要求；04:00和06:41材料圈划",
+      "topic": [
+        "申论"
+      ],
+      "observations": [
+        {
+          "locator": "01:17",
+          "support": "画面标示2023公务员多省联考申论安徽A卷；第一题要求概括优化营商环境的措施和成效，强调两者对应、分条列出、200字限制。相应要求被圈出。",
+          "scope": "完整题目约束可读；试题年份归于视频展示，未独立核验原卷"
+        },
+        {
+          "locator": "04:00",
+          "support": "材料将项目审批可视化为地铁线路；圈划项目、保障机制、审批事项以及状态类别。",
+          "scope": "可读材料及可见圈划，未获取同步语音解释"
+        },
+        {
+          "locator": "06:41",
+          "support": "同段继续圈出轮岗服务、专人负责、超期传递及督导等机制，并将审批时间减少一半附近标为成效；材料具体操作与效果同时被标记。",
+          "scope": "局部措施与成效映射可读，未复原整份200字答案"
+        }
+      ],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "supported_local_procedure: 由作答要求及后续措施/成效圈划支持",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 196,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCTq8m3y0FrVL2nqCcntbbrg",
+      "duration_seconds": 545,
+      "description_summary": "无独立教学摘要；简介为空或主要重复题名/标签。"
+    },
+    {
+      "id": "yt-KXO4q2OJ2VI",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=KXO4q2OJ2VI",
+      "title": "【闲聊22】无领导小组的15条关键技巧【公务员面试-公考面试】",
+      "uploader": "老夏说公务员面试",
+      "teacher": null,
+      "identity_status": "unknown: 未核实与讲师官方账号的关系，不能据频道名确认原创",
+      "published_at": "2024-10-03T21:00:15-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "面试"
+      ],
+      "observations": [],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 19,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCiCy26w07UbiACH_PxBKneA",
+      "duration_seconds": 1463,
+      "description_summary": "无独立教学摘要；简介为空或主要重复题名/标签。"
+    },
+    {
+      "id": "yt-TRT10p4jWM4",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=TRT10p4jWM4",
+      "title": "行测内容全解密！给自己公考的第一课，公考最开始的准备【行测01】",
+      "uploader": "Jason Ke",
+      "teacher": null,
+      "identity_status": "unknown: 未核实与讲师官方账号的关系，不能据频道名确认原创",
+      "published_at": "2021-04-02T03:00:11-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "行测"
+      ],
+      "observations": [],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 820,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UC_hMSQng1xV8z-eXH34DryQ",
+      "duration_seconds": 403,
+      "description_summary": "无独立教学摘要；简介为空或主要重复题名/标签。"
+    },
+    {
+      "id": "yt-J7AKToIa0NI",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=J7AKToIa0NI",
+      "title": "笔画中暗藏着什么玄机？公务员行测图形推理题隐藏的新思路",
+      "uploader": "会了会乐",
+      "teacher": null,
+      "identity_status": "unknown: 未核实与讲师官方账号的关系，不能据频道名确认原创",
+      "published_at": "2021-11-10T03:45:11-08:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "行测"
+      ],
+      "observations": [],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 537,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCd-HMvlJARCQKtmeuAqmPbQ",
+      "duration_seconds": 241,
+      "description_summary": "无独立教学摘要；简介为空或主要重复题名/标签。"
+    },
+    {
+      "id": "yt-Y_yljsG0YZk",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=Y_yljsG0YZk",
+      "title": "【36个行测秒杀技巧】第10讲：“单边问题”口算秒杀 行测数量关系秒杀技巧",
+      "uploader": "self 1234",
+      "teacher": null,
+      "identity_status": "likely_repost_unverified: 上传频道名与简介/标题讲师品牌不同；授权状态未知，仅候选索引",
+      "published_at": "2020-09-11T05:46:25-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "行测"
+      ],
+      "observations": [],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 1233,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCjJEVgDuLithQAh-_kkwxYQ",
+      "duration_seconds": 560,
+      "description_summary": "简介将系列署为两颗兔牙原创课程；上传频道与品牌关系未核实。"
+    },
+    {
+      "id": "yt-8SOJRIBfG8A",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=8SOJRIBfG8A",
+      "title": "申论考前万能模版！非常好用的开头结尾！",
+      "uploader": "手把手学申论",
+      "teacher": null,
+      "identity_status": "unknown: 未核实与讲师官方账号的关系，不能据频道名确认原创",
+      "published_at": "2024-04-23T13:04:37-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "申论"
+      ],
+      "observations": [],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 25,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCTfDspqN-yy0IyT7KNh7DSA",
+      "duration_seconds": 152,
+      "description_summary": "无独立教学摘要；简介为空或主要重复题名/标签。"
+    },
+    {
+      "id": "yt-52CWfccXUis",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=52CWfccXUis",
+      "title": "特别好用！大作文&面试必须具备的“七大思维”",
+      "uploader": "手把手学申论",
+      "teacher": null,
+      "identity_status": "unknown: 未核实与讲师官方账号的关系，不能据频道名确认原创",
+      "published_at": "2024-04-07T20:59:21-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "面试"
+      ],
+      "observations": [],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 12,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCTfDspqN-yy0IyT7KNh7DSA",
+      "duration_seconds": 368,
+      "description_summary": "无独立教学摘要；简介为空或主要重复题名/标签。"
+    },
+    {
+      "id": "yt-c0W9YQdDklw",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=c0W9YQdDklw",
+      "title": "2023公务员考试【he氏申论】：归纳概括、综合分析、对策执行、公文写作",
+      "uploader": "大笑脸",
+      "teacher": null,
+      "identity_status": "likely_repost_unverified: 上传频道名与简介/标题讲师品牌不同；授权状态未知，仅候选索引",
+      "published_at": "2022-07-19T18:53:40-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "申论"
+      ],
+      "observations": [],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 446,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UC6_yO5_oQfwelde0uEKiSZg",
+      "duration_seconds": 37153,
+      "description_summary": "简介按归纳概括、综合分析、对策执行、公文写作标记章节；只作目录用途。"
+    },
+    {
+      "id": "yt-jEfjdpjtrOA",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=jEfjdpjtrOA",
+      "title": "01 【申论之根】底层思维",
+      "uploader": "资料铺",
+      "teacher": null,
+      "identity_status": "likely_repost_unverified: 上传频道名与简介/标题讲师品牌不同；授权状态未知，仅候选索引",
+      "published_at": "2026-03-22T03:32:11-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "YouTube公开watch页标题、频道及description元数据",
+      "topic": [
+        "申论"
+      ],
+      "observations": [],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "discovery_only: 不凭标题或简介生成讲师方法",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 82,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UChOIh-7o_1LE0QnSdr3JiQg",
+      "duration_seconds": 6078,
+      "description_summary": "简介将课程标为2026袁东申论领跑营理论刷题班，不能据此确认上传授权。"
+    },
+    {
+      "id": "yt-6JVgY7PsCNE",
+      "platform": "youtube",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=6JVgY7PsCNE",
+      "title": "【行测-资料分析】资料分析1000题/资料分析刷题班（适用2024国考/省考/事业！非常高效！） p01 2021·国考·资料一（副省级）",
+      "uploader": "行测喜哥",
+      "teacher": null,
+      "identity_status": "unknown: 未核实与讲师官方账号的关系，不能据频道名确认原创",
+      "published_at": "2023-09-02T05:37:00-07:00",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "video_sample",
+      "read_scope": "03:00和07:20资料分析解题幻灯片",
+      "topic": [
+        "行测"
+      ],
+      "observations": [
+        {
+          "locator": "03:00",
+          "support": "表内缺失值通过总量减去其余三个海区的已知分量求出，幻灯片列式1199-198-425-506=70（吨）。",
+          "scope": "完整可读的一步公式"
+        },
+        {
+          "locator": "07:20",
+          "support": "对日均每个排口污水量列式174499×10^4÷150÷365；比重项列出836/5106与163/1199。",
+          "scope": "完整可读的日均量和比重计算式；未采集整题完整讲解"
+        }
+      ],
+      "limitations": [
+        "watch HTML未提供字幕轨道；不能推定平台永无字幕",
+        "supported_local_procedure: 两个时间点的可读公式",
+        "频道与主讲者身份关系未独立核实；仅归因可见画面，不认证独创性。"
+      ],
+      "metrics_snapshot": {
+        "views": 5,
+        "object": "single_video",
+        "observed_on": "2026-09-06",
+        "basis": "public watch metadata"
+      },
+      "channel_url": "https://www.youtube.com/channel/UCkmBLX0sE35TgK2QPmAuFVw",
+      "duration_seconds": 822,
+      "description_summary": "无独立教学摘要；简介为空或主要重复题名/标签。"
+    },
+    {
+      "id": "B-ROOT-GUODONG",
+      "platform": "bilibili",
+      "kind": "video",
+      "url": "https://www.bilibili.com/video/BV1ST411Q7rQ/",
+      "title": "资料分析不用愁，26式解忧愁！（合集）",
+      "uploader": "公考果冻",
+      "teacher": "公考果冻",
+      "identity_status": "platform_self_identification",
+      "published_at": "2023-02-12",
+      "accessed_at": "2026-09-06",
+      "evidence_level": "description_only",
+      "read_scope": "主代理普通浏览器读取标题、简介和26个分P目录；播放器显示无法播放媒体。",
+      "topic": [
+        "资料分析"
+      ],
+      "observations": [
+        {
+          "locator": "分P目录",
+          "support": "目录涵盖基期、增长、比重、均值、混合增长及计算技巧。"
+        }
+      ],
+      "limitations": [
+        "只确认课程主题；未取得视频内容或个人解题步骤。"
+      ],
+      "metrics_snapshot": {
+        "views_display": "64.0万",
+        "object": "multipart_video",
+        "observed_on": "2026-09-06",
+        "basis": "browser_page"
+      }
+    }
+  ]
+}

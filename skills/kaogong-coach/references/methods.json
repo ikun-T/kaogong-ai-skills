@@ -1,0 +1,687 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-09-06",
+  "methods": [
+    {
+      "id": "S01",
+      "name": "同考区成组练习与难度递进",
+      "module": "学习计划",
+      "status": "source_verified",
+      "attribution": "叽叽喳喳的公考：本人公开视频简介",
+      "triggers": [
+        "已有基本计算能力，需要安排数资练习"
+      ],
+      "steps": [
+        "将同一年、同地区不同卷集中训练，便于比较题型。",
+        "按可完成程度递进训练；高级估算先检查基础计算是否稳定。"
+      ],
+      "limits": [
+        "属于简介建议；地区难度排行未验证。",
+        "诊断阈值与反馈表是项目设计，不是讲师原话。"
+      ],
+      "evidence": [
+        {
+          "source_id": "B013",
+          "locator": "公开简介，非视频时间戳",
+          "support": "简介明确提出同年同地区不同卷排序训练、高精度估算依赖基本功。"
+        }
+      ],
+      "example": {
+        "origin": "project_original",
+        "prompt": "已学基础但套卷正确率波动，如何安排下一轮练习？",
+        "answer": "先用同年同考区不同卷对照记录错误，再针对重复错误补练；是否进入高精度估算由实际表现决定。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "S02",
+      "name": "按学习基础区分申论训练重点",
+      "module": "申论",
+      "status": "source_verified",
+      "attribution": "公考花木君：本人公开视频简介",
+      "triggers": [
+        "需要申论入门或已有基础的进阶计划"
+      ],
+      "steps": [
+        "初学者同时训练材料阅读、写作和题型识别。",
+        "已有基础者结合读写理论与历年题复盘，不只重复听入门课。"
+      ],
+      "limits": [
+        "源视频是2022考季建议，不直接迁移旧日程。",
+        "没有读取花木体算法。"
+      ],
+      "evidence": [
+        {
+          "source_id": "BILI-SL-HUAMU-2021",
+          "locator": "主代理直接读取的视频简介",
+          "support": "简介区分新手与有基础者的读写、理论与真题训练重点。"
+        }
+      ],
+      "example": {
+        "origin": "project_original",
+        "prompt": "甲未做过申论，乙做题较多但经常漏点，是否用同一计划？",
+        "answer": "甲先完成题干识别与短材料概括；乙先复盘漏点与答案材料对应。具体诊断练习为本项目设计。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "S03",
+      "name": "事务处理先识别矛盾与轻重缓急",
+      "module": "面试",
+      "status": "source_verified",
+      "attribution": "申论克星王长明：公开视频简介中的有限原则",
+      "triggers": [
+        "结构化面试怎么办类情境"
+      ],
+      "steps": [
+        "列出题设中需要解决的矛盾。",
+        "区分轻重缓急，提出能实际解决问题的处置，不把矛盾简单转移给别人。"
+      ],
+      "limits": [
+        "没有提炼其完整八大思维体系。",
+        "角色权限、追问和执行检查为项目补充。"
+      ],
+      "evidence": [
+        {
+          "source_id": "BILI-IV-WANG-2019",
+          "locator": "公开简介的怎么办类段落",
+          "support": "简介强调覆盖矛盾、轻重缓急、务实解决和避免转嫁矛盾。"
+        }
+      ],
+      "example": {
+        "origin": "project_original",
+        "prompt": "预约系统故障，群众排队，作为窗口人员如何作答？",
+        "answer": "先处理现场服务与紧急需求，再协调技术及允许的替代办理方式，说明后续落实；不能只说交给领导。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "S04",
+      "name": "归纳概括的审题—找点—压缩—组织",
+      "module": "申论",
+      "status": "source_verified",
+      "attribution": "永岸申倩：本人公开图文",
+      "triggers": [
+        "基于给定材料的归纳概括题"
+      ],
+      "steps": [
+        "确认任务对象、材料范围、字数和要求。",
+        "分层找出与题问有关的信息。",
+        "忠实原义压缩或改写，合并重复内容。",
+        "按题目要求组织要点并检查有无增补。"
+      ],
+      "limits": [
+        "证据为图文，不是系统课字幕。",
+        "不把特定字数的段落经验变成统一评分规则。"
+      ],
+      "evidence": [
+        {
+          "source_id": "BILI-TEXT-SHENQIAN-2025",
+          "locator": "公开图文：审题、找要点、加工组织相关段落",
+          "support": "正文支持先明确任务、分层筛选、忠实压缩及按要求组织。"
+        }
+      ],
+      "example": {
+        "origin": "project_original",
+        "prompt": "材料称服务站计划延时开放，目前仍按17时下班。概括当前问题。",
+        "answer": "当前开放时间安排是现状；计划延时尚未实施，不能写成已取得的服务成效。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "S05",
+      "name": "主旨题区分中心建议与例证",
+      "module": "言语理解",
+      "status": "source_verified",
+      "attribution": "YouTube 公考老师-水果频道可见课堂画面；主讲身份未核实",
+      "triggers": [
+        "段落以问题引出建议并举例"
+      ],
+      "steps": [
+        "标出建议与例证在段中的功能。",
+        "将中心建议压缩成含主题对象和行动的表达。",
+        "用整段检验选项覆盖，防止只取举例细节。"
+      ],
+      "limits": [
+        "只有一题画面支持局部操作。",
+        "信号词不是见词即选的规则；整段校验是项目可执行化补充。"
+      ],
+      "evidence": [
+        {
+          "source_id": "yt-EzFeuedSL7s",
+          "locator": "01:30；02:37同题复核",
+          "support": "可见文博题的建议和例证信号圈划、重点内容与对应选项标记。"
+        }
+      ],
+      "example": {
+        "origin": "project_original",
+        "prompt": "某馆空间有限，为此推广线上展览，比如开放虚拟展厅。主旨是什么？",
+        "answer": "通过线上方式拓展展览服务；虚拟展厅是例证，不能把主旨缩为单一技术名称。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "S06",
+      "name": "同口径总分量补缺",
+      "module": "资料分析",
+      "status": "source_verified",
+      "attribution": "YouTube 行测喜哥频道可见板书；身份未核实",
+      "triggers": [
+        "总量已知且穷尽互斥分项中缺一项"
+      ],
+      "steps": [
+        "确认统计时期、指标与单位一致。",
+        "总量减全部已知分项得到缺失项。",
+        "回填重新求和校验。"
+      ],
+      "limits": [
+        "分项必须穷尽且无重叠，不能用于重叠集合。",
+        "回填校验为项目补充，未归为讲师口头要求。"
+      ],
+      "evidence": [
+        {
+          "source_id": "yt-6JVgY7PsCNE",
+          "locator": "03:00",
+          "support": "画面完整显示总量减其余三个分项得到缺项的公式。"
+        }
+      ],
+      "example": {
+        "origin": "project_original",
+        "prompt": "四区总量1000吨，三个区分别120、230、310吨，第四区多少？",
+        "answer": "1000−120−230−310=340吨；四项相加1000吨。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "S07",
+      "name": "统一量纲后计算每对象每时间均值",
+      "module": "资料分析",
+      "status": "source_verified",
+      "attribution": "YouTube 行测喜哥频道可见板书；身份未核实",
+      "triggers": [
+        "累计总量求日均每个对象数量"
+      ],
+      "steps": [
+        "先将总量换成目标单位。",
+        "再除以对象数与有效时间跨度。",
+        "检查天数、对象口径和维度。"
+      ],
+      "limits": [
+        "365不是任何年份都适用；对象数变化时须检查题干口径。",
+        "板书公式支持单位换算与连续除法；天数、对象变动检查为项目补充。"
+      ],
+      "evidence": [
+        {
+          "source_id": "yt-6JVgY7PsCNE",
+          "locator": "07:20",
+          "support": "画面给出万吨转吨后依次除以对象数和365的公式。"
+        }
+      ],
+      "example": {
+        "origin": "project_original",
+        "prompt": "全年36.5万吨，100个固定监测点，365天；日均每点多少吨？",
+        "answer": "36.5×10000÷100÷365=10吨/点/日。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "S08",
+      "name": "比重先配对部分与总体",
+      "module": "资料分析",
+      "status": "source_verified",
+      "attribution": "YouTube 行测喜哥频道可见板书；身份未核实",
+      "triggers": [
+        "按设问比较两个有意义的比重，可涉及不同指标"
+      ],
+      "steps": [
+        "分别写出部分量及其对应总体量。",
+        "核对每个比值内部的指标、期间和单位匹配，再按设问比较。"
+      ],
+      "limits": [
+        "交叉相乘或精算属于项目数学实现，画面只证实列出两个比值。",
+        "两个比值可以跨指标；分母为0时无定义。"
+      ],
+      "evidence": [
+        {
+          "source_id": "yt-6JVgY7PsCNE",
+          "locator": "07:20",
+          "support": "可见生活类总氮／全部总氮与生活类总磷／全部总磷的比值列式。"
+        }
+      ],
+      "example": {
+        "origin": "project_original",
+        "prompt": "甲类占总氮20/80，乙类占总磷30/150，哪个占比更高？",
+        "answer": "前者25%，后者20%，前者高5个百分点；各比值内部指标对应即可。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "S09",
+      "name": "措施与成效按题目要求对应",
+      "module": "申论",
+      "status": "source_verified",
+      "attribution": "YouTube 鹊南天频道可见题面与圈划；主讲和授权关系未核实",
+      "triggers": [
+        "题目明确要求措施与成效相对应"
+      ],
+      "steps": [
+        "把题干的对应要求与字数作为答案约束。",
+        "从材料提取措施，寻找该措施对应的成效。",
+        "按配对关系压缩表达，缺少成效依据则保留未明。"
+      ],
+      "limits": [
+        "矩阵形式是项目设计，不是可见讲师原话。",
+        "不能由措施自动推断满意度或效率改善。"
+      ],
+      "evidence": [
+        {
+          "source_id": "yt-i_7m06DjTV4",
+          "locator": "01:17题干要求；04:00措施圈划；06:41措施与成效圈划",
+          "support": "题面要求对应，后续画面圈出办理机制和审批时长减少，支持局部措施—成效配对。"
+        }
+      ],
+      "example": {
+        "origin": "project_original",
+        "prompt": "材料称推行预约并使等候从30分钟缩短到15分钟；另计划新建窗口但未实施。概括措施和成效。",
+        "answer": "已实施预约—等候时间减少一半。计划新建窗口不能写成已实施措施或成效。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O01",
+      "name": "目标量与四维取数核对",
+      "module": "资料分析",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "材料中有多个主体、年份和单位"
+      ],
+      "steps": [
+        "写出主体、时期、指标、单位。",
+        "把设问转换为目标量，再取数列式。"
+      ],
+      "limits": [
+        "材料缺必要数据时不能补造。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "2024累计金额与2024单月数量能否直接求当月单价？",
+        "answer": "不能，时间范围和指标统计口径未对齐。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O02",
+      "name": "增长量回到基期",
+      "module": "资料分析",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "给出现期和增长率求增长量"
+      ],
+      "steps": [
+        "由现期除以1+r反推基期。",
+        "现期减基期，或用Ar/(1+r)。"
+      ],
+      "limits": [
+        "r=-100%时仅靠现期不能恢复原基期。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "现期120同比20%，增长多少？",
+        "answer": "基期100，增长量20。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O03",
+      "name": "区分比重差与平均数增长率",
+      "module": "资料分析",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "两个增速和现期比值并存"
+      ],
+      "steps": [
+        "确认问百分点差还是比值增长率。",
+        "分别使用p(a-b)/(1+a)与(a-b)/(1+b)。"
+      ],
+      "limits": [
+        "比重需满足前后两期均在0到1之间。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "现期比重30%，分子20%、分母10%，比重提高多少？",
+        "answer": "0.30×0.10/1.20=0.025，即2.5个百分点；不是9.09%。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O04",
+      "name": "混合增长率用基期加权",
+      "module": "资料分析",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "已知分组增长率及规模"
+      ],
+      "steps": [
+        "优先使用各组基期量。",
+        "用增长量之和除以基期总量。",
+        "只有现期时先反推基期。"
+      ],
+      "limits": [
+        "不能无条件按现期加权；基期总量不得为0。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "基期100增10%，基期300增30%，总体增速？",
+        "answer": "(10+90)/(100+300)=25%。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O05",
+      "name": "复合增长用因子相乘",
+      "module": "资料分析",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "连续增长或下降"
+      ],
+      "steps": [
+        "每期转换成1+r。",
+        "相乘后减1；年均用间隔数开方。"
+      ],
+      "limits": [
+        "年份个数不等于增长间隔数。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "先增20%再降20%，结果如何？",
+        "answer": "1.2×0.8−1=−4%，没有回到原值。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O06",
+      "name": "估算区间保护选项判断",
+      "module": "资料分析",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "需要截位且选项接近"
+      ],
+      "steps": [
+        "先写精确式。",
+        "估出上下界。",
+        "区间无法唯一判定就提高精度。"
+      ],
+      "limits": [
+        "固定两位或三位没有普适保证。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "120/1.2的选项是99、100、101、102，能用120×0.8=96吗？",
+        "answer": "不行，误差4会改变判断，应精算为100。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O07",
+      "name": "条件命题检验方向",
+      "module": "判断推理",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "题干包含如果、只有、所有等条件"
+      ],
+      "steps": [
+        "形式化条件方向。",
+        "只用合法推理，必要时构造反例。"
+      ],
+      "limits": [
+        "不能肯定后件或否定前件。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "只有材料齐全才可受理；材料齐全就一定受理吗？",
+        "answer": "不一定，齐全是受理的必要条件，可能仍有其他条件。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O08",
+      "name": "论证证据与桥接假设",
+      "module": "判断推理",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "加强或削弱论证"
+      ],
+      "steps": [
+        "分别找结论和证据。",
+        "指出推论需要的连接条件。",
+        "比较选项对这条推论的影响。"
+      ],
+      "limits": [
+        "替代原因是否有力取决于题干，不凭空加事实。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "增设窗口后排队减少，如何用题设中的同期客流减少检验归因？",
+        "answer": "客流变化可构成替代解释，需判断新增窗口是否仍是排队减少的原因。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O09",
+      "name": "定义必要条件逐项映射",
+      "module": "判断推理",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "根据定义选择符合或不符合者"
+      ],
+      "steps": [
+        "拆出必要条件。",
+        "逐项对应选项事实。",
+        "检查否定、范围及例外。"
+      ],
+      "limits": [
+        "定义中的举例不必是必要条件。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "定义要求主动、无偿、面向公众；有偿咨询符合吗？",
+        "answer": "不符合无偿条件，无须因它面向公众就选入。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O10",
+      "name": "言语用全文约束关键词",
+      "module": "言语理解",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "有转折、因果、例证等线索"
+      ],
+      "steps": [
+        "判断问题类型和句间功能。",
+        "用全文验证中心而非只看单词。"
+      ],
+      "limits": [
+        "问已采取措施与问下一步建议会对应不同句子。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "展馆已延时，但偏远社区难到达，建议巡展。问已采取的措施。",
+        "answer": "延长开放时间；巡展只是建议。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O11",
+      "name": "分阶段工程时间线",
+      "module": "数量关系",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "合作、中途退出或效率变化"
+      ],
+      "steps": [
+        "统一工作总量。",
+        "按参与者和效率变化分阶段。",
+        "核对已完成量与剩余量。"
+      ],
+      "limits": [
+        "不能把中途停工者效率计入全程。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "甲6天乙12天独立完成，合作2天后乙独做，还需几天？",
+        "answer": "合作完成1/2，乙还需6天；全过程8天。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O12",
+      "name": "有序枚举防重防漏",
+      "module": "数量关系",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "样本空间较小的排列组合"
+      ],
+      "steps": [
+        "选固定枚举顺序。",
+        "逐类列出合法情况。",
+        "检查重复与遗漏，必要时用独立计数验证。"
+      ],
+      "limits": [
+        "规则由题设决定；不冒充笨笨未读取的特色算法。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "A、B、C中选两人组成无职务差异的小组，有几组？",
+        "answer": "AB、AC、BC共3组；BA与AB相同。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O13",
+      "name": "申论要点的材料证据映射",
+      "module": "申论",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "概括、批改、分析需要回到材料"
+      ],
+      "steps": [
+        "为材料编号。",
+        "每个要点标位置与变换类型。",
+        "删去题目不允许的增补，区分计划和成效。"
+      ],
+      "limits": [
+        "建议题允许提出建议，但要说明对应问题；不伪称已发生。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "材料说每周指导但部分老人仍不会预约，能写指导缺乏持续性吗？",
+        "answer": "不能；可写部分老人仍有操作困难、指导效果有限。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "O14",
+      "name": "面试角色权限与行动反馈",
+      "module": "面试",
+      "status": "original_design",
+      "attribution": "本项目原创教学设计",
+      "triggers": [
+        "结构化面试情境训练"
+      ],
+      "steps": [
+        "固定角色权限与目标。",
+        "说明当前动作、协调对象和结果检查。",
+        "用追问检验情境变化。"
+      ],
+      "limits": [
+        "文字作答不能评价声音仪态；训练量表不是官方评分。"
+      ],
+      "evidence": [],
+      "example": {
+        "origin": "project_original",
+        "prompt": "窗口人员能否承诺故障后当天办结所有事项？",
+        "answer": "题干未给依据时不能；可说明上报协调、合法替代方案和及时告知进展。"
+      },
+      "implementation_notes": "步骤以本项目语言整理，例题为原创；不代表来源讲师逐字表述。"
+    },
+    {
+      "id": "C01",
+      "name": "笨笨特色方法算法待核验",
+      "module": "数量关系／资料分析／立体几何与空间图形（适用模块待核验）",
+      "status": "candidate",
+      "attribution": "笨笨还在做题：仅确认简介中自述的方法名称",
+      "triggers": [
+        "用户点名假设修正、四面体底边法或比重差"
+      ],
+      "steps": [],
+      "limits": [
+        "没有读到算法，不能复原其个人步骤或确定每个方法的完整适用模块。"
+      ],
+      "evidence": [
+        {
+          "source_id": "B017",
+          "locator": "公开简介的特色方法列表",
+          "support": "只能确认方法名及作者自述。"
+        }
+      ],
+      "example": {
+        "origin": "none",
+        "prompt": "",
+        "answer": ""
+      }
+    },
+    {
+      "id": "C02",
+      "name": "聂佳削弱课程分类导航",
+      "module": "判断推理",
+      "status": "candidate",
+      "attribution": "聂佳：目录框架已读，具体解法待核验",
+      "triggers": [
+        "用户指定聂佳削弱课方法"
+      ],
+      "steps": [],
+      "limits": [
+        "目录能导航到论点、论据、拆桥、因果等主题；不能证明具体择优算法。"
+      ],
+      "evidence": [
+        {
+          "source_id": "B003",
+          "locator": "分P1至20目录",
+          "support": "目录提供分类，非完整讲解。"
+        }
+      ],
+      "example": {
+        "origin": "none",
+        "prompt": "",
+        "answer": ""
+      }
+    }
+  ]
+}
