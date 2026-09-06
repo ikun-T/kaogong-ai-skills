@@ -1,0 +1,31 @@
+{
+  "source": {
+    "id": "source-unique-id",
+    "platform": "bilibili",
+    "url": "https://www.bilibili.com/",
+    "title": "替换为实际标题",
+    "uploader": "实际上传者",
+    "teacher": null,
+    "identity_status": "unverified",
+    "published_at": null,
+    "accessed_at": "YYYY-MM-DD",
+    "evidence_level": "unavailable",
+    "read_scope": "实际读到的内容范围",
+    "topic": ["资料分析"],
+    "observations": [],
+    "limitations": ["未知信息明确保留"],
+    "metrics_snapshot": null
+  },
+  "method": {
+    "id": "method-unique-id",
+    "name": "方法名",
+    "module": "资料分析",
+    "status": "candidate",
+    "attribution": "尚未核验",
+    "triggers": [],
+    "steps": [],
+    "limits": [],
+    "evidence": [],
+    "example": {"origin": "project_original", "prompt": "", "answer": ""}
+  }
+}
