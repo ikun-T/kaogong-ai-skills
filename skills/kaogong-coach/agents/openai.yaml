@@ -1,0 +1,4 @@
+interface:
+  display_name: "考公学习教练"
+  short_description: "结合公开课来源与原创练习，讲解行测、批改申论并训练结构化面试"
+  default_prompt: "使用 $kaogong-coach 讲解这道题，给出适用方法、易错点和一道原创迁移练习。"
