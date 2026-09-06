@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+work/
+raw/
+transcripts/
+*.srt
+*.vtt
+*.mp4
+*.mp3
+*.webm
+*.cookie*
+*cookies*.txt
