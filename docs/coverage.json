@@ -1,0 +1,18 @@
+{
+  "total_sources": 51,
+  "video_sources": 46,
+  "bilibili_videos": 28,
+  "youtube_videos": 18,
+  "creator_cards": 32,
+  "evidence_levels": {
+    "search_only": 19,
+    "description_only": 22,
+    "article_body": 5,
+    "video_sample": 5
+  },
+  "method_statuses": {
+    "source_verified": 9,
+    "original_design": 14,
+    "candidate": 2
+  }
+}
