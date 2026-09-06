@@ -1,0 +1,4 @@
+interface:
+  display_name: "考公公开课方法提炼"
+  short_description: "把公开课程的实际内容转为带证据、适用条件和反例的考公教学方法卡"
+  default_prompt: "使用 $kaogong-source-distiller 读取这份公开课材料，提炼有来源依据的方法卡，并明确尚未核验的部分。"
